@@ -1,3 +1,8 @@
+# 🌐 Language Switch / 语言切换
+- 🌍 English Version: [README_EN.md](./README_EN.md)
+
+---
+
 # DTC Brand Playbook
 
 > 一套标准化的 DTC 品牌 0-1 商业策划书输出框架 —— 从 idea 到可执行的 GTM 策略。
@@ -72,8 +77,9 @@ Skill 会自动触发，按模板输出完整的商业策划书。
 
 ### 3. 模板文件
 
-- **SKILL.md** — Skill 定义文件（触发规则 + 使用说明）
-- **template.md** — 可复用模板（用 `[占位符]` 标记需填充的内容）
+- **[SKILL.md](./SKILL.md)** — Skill 定义文件（触发规则 + 使用说明）| 🇨🇳 中文
+- **[SKILL_EN.md](./SKILL_EN.md)** — Skill 定义文件（触发规则 + 使用说明）| 🌍 English
+- **[template.md](./template.md)** — 可复用模板（用 `[占位符]` 标记需填充的内容）
 - **示例输出** — 见 `examples/001-tcm-fashion-wearable.md`（中医时尚体验 DTC 品牌商业策划书）
 
 ---
@@ -108,10 +114,13 @@ Skill 会自动触发，按模板输出完整的商业策划书。
 
 ```
 dtc-brand-playbook/
-├── SKILL.md           # Skill 定义（触发规则 + 使用说明 + 质量检查清单）
+├── SKILL.md           # Skill 定义 — 中文（触发规则 + 使用说明 + 质量检查清单）
+├── SKILL_EN.md        # Skill 定义 — English
 ├── template.md        # 通用模板（[占位符]格式，可直接复制填充）
-├── README.md          # 本文件
-└── examples/          # 示例输出（可选）
+├── README.md          # 本文件（中文文档）
+├── README_EN.md       # English Documentation
+├── LICENSE            # MIT License
+└── examples/          # 示例输出
     └── 001-tcm-fashion-wearable.md
 ```
 

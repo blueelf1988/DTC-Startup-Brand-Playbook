@@ -1,3 +1,8 @@
+# 🌐 Language Switch
+- 🇨🇳 Chinese Version: [README.md](./README.md)
+
+---
+
 # DTC Brand Playbook
 
 > A standardized framework for DTC brand 0-to-1 business planning — from raw idea to executable GTM strategy.
@@ -74,7 +79,8 @@ The skill auto-triggers and outputs a complete business playbook following the t
 
 | File | Purpose |
 |------|---------|
-| `SKILL.md` | Skill definition (trigger rules + usage guide + quality checklist) |
+| `SKILL.md` | Skill definition — Chinese (trigger rules + usage guide + quality checklist) |
+| `SKILL_EN.md` | Skill definition — English |
 | `template.md` | Reusable template (`[placeholders]` for easy fill-in) |
 | `README.md` | Chinese documentation |
 | `README_EN.md` | This file — English documentation |
@@ -112,7 +118,8 @@ All industry benchmarks referenced in the template come from:
 
 ```
 dtc-brand-playbook/
-├── SKILL.md           # Skill definition (triggers + usage + quality checklist)
+├── SKILL.md           # Skill definition — Chinese (triggers + usage + quality checklist)
+├── SKILL_EN.md        # Skill definition — English
 ├── template.md        # Universal template ([placeholder] format)
 ├── README.md          # Chinese documentation
 ├── README_EN.md       # English documentation (this file)
