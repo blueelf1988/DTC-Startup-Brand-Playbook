@@ -90,6 +90,22 @@ The skill auto-triggers and outputs a complete business playbook following the t
 
 ## Use Cases
 
+| Scenario | You Say | Skill Outputs |
+|----------|---------|--------------|
+| 🆕 **Submit New Idea** | "I want to create a DTC pet brand for the North American market..." | Full 7-module business playbook (Positioning → GO/NO-GO → Opportunity → Strategy → Model → GTM → Roadmap) |
+| ⚡ **Quick Feasibility Check** | "Is this direction viable: [category] for US/EU market?" | GO/NO-GO verdict first + 5-dimension assessment, then decide whether to expand |
+| 🔍 **Deep Dive Module** | "Do a deep dive on Idea #1's business model and unit economics" | Standalone business model module with industry benchmark comparison |
+| 💰 **Investor Pitch** | "Turn Idea #1 into an investor-ready version" | Executive Summary format (3 pages max), concise and punchy |
+| ⚔️ **Competitive Landscape** | "Analyze the competitive landscape for [category] in the US/EU" | 4-quadrant map + deep competitor profiling with revenue/funding data |
+| 🚀 **GTM Strategy** | "Plan the cold-start strategy for [brand]" | 5P model + content-KOL-ads triple engine + 12-month roadmap |
+| 📊 **Compare & Select** | "I have 3 ideas, compare them and pick the best" | Cross-comparison matrix + ranked recommendation + weighted scoring |
+
+### Trigger Keywords
+
+Any of these keywords auto-trigger the skill: `DTC`, `brand strategy`, `startup idea`, `business plan`, `GTM`, `0-to-1`, `brand出海`, `cross-border`, `category creation`, `cold start`
+
+### Scope
+
 | ✅ Great For | ❌ Not For |
 |-------------|-----------|
 | DTC consumer brands (fashion, pets, wellness, home, etc.) | B2B SaaS products |
