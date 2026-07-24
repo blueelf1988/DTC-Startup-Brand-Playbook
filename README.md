@@ -1,4 +1,4 @@
-# 🌐 Language Switch / 语言切换
+
 - 🌍 English Version: [README_EN.md](./README_EN.md)
 
 ---
