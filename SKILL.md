@@ -6,7 +6,7 @@ author: Leo 屿 | 品牌出海顾问 (Leo_Isle | Brand Strategy Consultant)
 license: MIT
 ---
 
-# DTC Brand Playbook — 品牌创业商业策划书模板
+# DTC Startup Brand Playbook — 品牌创业商业策划书模板
 
 ## 概述
 

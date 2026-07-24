@@ -3,7 +3,7 @@
 
 ---
 
-# DTC Brand Playbook
+# DTC Startup Brand Playbook
 
 > 一套标准化的 DTC 品牌 0-1 商业策划书输出框架 —— 从 idea 到可执行的 GTM 策略。
 
@@ -22,7 +22,7 @@
 - 怎么赚钱？（商业模型 + Unit Economics）
 - 怎么落地？（GTM 策略 + 12 个月执行路线）
 
-**DTC Brand Playbook** 就是一套帮你系统化回答这些问题的模板和方法论。
+**DTC Startup Brand Playbook** 就是一套帮你系统化回答这些问题的模板和方法论。
 
 ---
 

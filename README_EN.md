@@ -3,7 +3,7 @@
 
 ---
 
-# DTC Brand Playbook
+# DTC Startup Brand Playbook
 
 > A standardized framework for DTC brand 0-to-1 business planning — from raw idea to executable GTM strategy.
 
@@ -22,7 +22,7 @@ When you have a DTC brand startup idea, you need quick answers to critical quest
 - How do we make money? (Business Model + Unit Economics)
 - How do we execute? (GTM Strategy + 12-Month Roadmap)
 
-**DTC Brand Playbook** is a battle-tested methodology that answers all of these systematically — in a format that investors, partners, and your own team can act on immediately.
+**DTC Startup Brand Playbook** is a battle-tested methodology that answers all of these systematically — in a format that investors, partners, and your own team can act on immediately.
 
 ---
 

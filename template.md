@@ -474,4 +474,4 @@ MVP 月人力成本：**[$范围]**
 
 ---
 
-*本文件基于 DTC Brand Playbook 模板生成 | 模板版本 1.0 | 作者：Leo 屿 (Leo_Isle)*
+*本文件基于 DTC Startup Brand Playbook 模板生成 | 模板版本 1.0 | 作者：Leo 屿 (Leo_Isle)*
