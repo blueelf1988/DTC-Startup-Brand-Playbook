@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DTC Brand Playbook</title>
+    <style>
+        body { font-family: system-ui; text-align:center; margin-top:80px; }
+        a { margin:0 12px; font-size:18px; }
+    </style>
+</head>
+<body>
+    <h3>Redirecting based on your browser language...</h3>
+    <div style="margin-top:30px">
+        <a href="./README.md">🇨🇳 中文文档</a>
+        <a href="./README_EN.md">🌍 English Docs</a>
+    </div>
+    <script>
+        // 检测浏览器语言
+        const langs = navigator.languages ?? [navigator.language];
+        const isChinese = langs.some(l => l.startsWith('zh'));
+        // 中文环境跳转中文版，其余默认英文版
+        if(isChinese){
+            location.href = "./README.md";
+        }else{
+            location.href = "./README_EN.md";
+        }
+    </script>
+</body>
+</html>
